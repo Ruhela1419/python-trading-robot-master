@@ -108,11 +108,7 @@ trading_robot = PyRobot(
 For more detailed examples, go to the `trading_robot.py` file to see an example of how to use the library along with all
 the different objects inside.
 
-## Support these Projects
 
-**Patreon:**
-Help support this project and future projects by donating to my [Patreon Page](https://www.patreon.com/sigmacoding). I'm always
-looking to add more content for individuals like yourself, unfortuantely some of the APIs I would require me to pay monthly fees.
 
 **YouTube:**
 If you'd like to watch more of my content, feel free to visit my YouTube channel [Sigma Coding](https://www.youtube.com/c/SigmaCoding).
